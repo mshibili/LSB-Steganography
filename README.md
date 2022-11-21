@@ -12,26 +12,29 @@ What steganography essentially does is exploit human perception, human senses ar
 
 ## Requirements:<br />
 
-    • The application accept an image file say .bmp along with the a text file which contains the message to be steged.<br />
-    • Analize the size of the message file and the data part of the .bmp file to check whether the messsage could fit in the provided .bmp image.<br />
-    • Provide a option to steg a magic string which could be usefull to identify whether the image is steged or not.<br />
-    • The appliaction should provide a option to decrpt the file. <br />
-    • This has to be an command line apliaction and all the options has to be passed as an command line argument.<br />
+    • The application accept an image file say .bmp along with the a text file which contains the message to be steged
+    • Analize the size of the message file and the data part of the .bmp file to check whether the messsage could fit in the provided .bmp image.
+    • Provide a option to steg a magic string which could be usefull to identify whether the image is steged or not.
+    • The appliaction should provide a option to decrpt the file. 
+    • This has to be an command line apliaction and all the options has to be passed as an command line argument.
 
 ## Pre-requisite:
-    • Knowledge of encryption and decryption.<br />
-    • File I/O<br />
-    • Pointers and Structures<br /><br />
+    • Knowledge of encryption and decryption.
+    • File I/O.
+    • Pointers and Structures.
 
 ## Level:
     • Easy
 
 ## Design:
+<p align="center">
+<img src="https://github.com/mshibili/LSB-Steganography/blob/main/3-Design/ls_fc.jpg" alt="Design Overview" title="Design Overview"   width="450" height="450">
+</p>
 
 ## Source Code:
 
 ## Sample Outputs:
 
 ## References:
-https://en.wikipedia.org/wiki/Steganography
+https://en.wikipedia.org/wiki/Steganography <br />
 https://en.wikipedia.org/wiki/BMP
