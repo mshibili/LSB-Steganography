@@ -40,9 +40,6 @@ large and lossless; their advantage is their simple structure and wide acceptanc
     • File I/O.
     • Pointers and Structures.
 
-## Level:
-    • Easy
-
 ## Design:
 <p align="left">
 <img src="https://github.com/mshibili/LSB-Steganography/blob/main/3-Design/ls_fc.jpg" alt="Design Overview" title="Design Overview" >
