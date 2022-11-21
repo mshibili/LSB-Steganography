@@ -49,7 +49,7 @@ large and lossless; their advantage is their simple structure and wide acceptanc
 </p>
 
 ## Source Code:
-Find the code here - https://github.com/mshibili/LSB-Steganography/tree/main/4-SkeletonCode <br />
+Find the source files here - https://github.com/mshibili/LSB-Steganography/tree/main/4-SkeletonCode <br />
 
 ## Sample Outputs:
 <p align="left">
