@@ -1,6 +1,5 @@
 # LSB-Steganography
- Encoding secret data in lsb bits of .bmp file.
- Project 1: LSB Image Steganography
+ Encoding secret data in lsb bits of a .bmp file.
 
 ## Abstarct:
 
