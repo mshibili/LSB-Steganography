@@ -10,6 +10,10 @@ Steganography is the practice of hiding private or sensitive information within 
 
 What steganography essentially does is exploit human perception, human senses are not trained to look for files that have information inside of them, although this software is available that can do what is called Steganography. The most common use of steganography is to hide a file inside another file.<br /><br />
 
+## LSB Bit Steganography
+The type of steganography implemented by encoding the information in the LSB bit of carrier file data, in a way that does not affect the carrier output 
+noticeably. <br />
+The change in Least significant bit of a file data bytes affects the overall output minimally wich is unditactable in the case of image file.
 ## Requirements:<br />
 
     • The application accept an image file say .bmp along with the a text file which contains the message to be steged
