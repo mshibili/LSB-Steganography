@@ -60,7 +60,8 @@ Find the code here - https://github.com/mshibili/LSB-Steganography/tree/main/4-S
 </p>
 <p align="left">
 <img src="https://github.com/mshibili/LSB-Steganography/blob/main/2-OutputImages/HexChange.png" alt="HexChange" title="HexChange" >
-</p>
+</p> <br />
+
 ## References:
 https://en.wikipedia.org/wiki/Steganography <br />
 https://en.wikipedia.org/wiki/BMP
