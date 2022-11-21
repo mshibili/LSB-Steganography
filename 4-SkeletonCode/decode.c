@@ -1,7 +1,6 @@
 /***************DECODE.C*************
 *       Name                : Muhammed Shibili K
 *       Project             : Steganography
-*       Date of submition   : Oct 17 2022
 *       File                : decode.c
 *       Description         : This file contains the fucntion definitions for Decode functionality.
 *                               1- Open files : -> source image -> Secret file

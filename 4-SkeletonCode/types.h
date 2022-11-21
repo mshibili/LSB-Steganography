@@ -1,7 +1,6 @@
 /***************TYPES.H*************
 *       Name                : Muhammed Shibili K
 *       Project             : Steganography
-*       Date of submition   : Oct 17 2022
 *       File                : types.h
 *       Description         : This file contains the enum definition used in the program
 */

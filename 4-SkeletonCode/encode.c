@@ -1,7 +1,6 @@
 /********ENCODE.C*************
 *   	Name 			: Muhammed Shibili K
 *   	Project 		: Steganography
-*   	Date of submition 	: Oct 17 2022
 * 	File 			: encode.c
 * 	Description		: This file contains the fucntion definitions for Encode functionality.
 * 					1- Open files : -> source image -> Secret file

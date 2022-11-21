@@ -2,7 +2,6 @@
 * 
 *   	Name 				: Muhammed Shibili K
 *   	Project 			: Steganography
-*   	Date of submition 	: Oct 17 2022
 * 		File 				: encode.c
 * 		Description			: This file contains the main fucntion that calls to encode/decode fucntions accroding to the user given option.
 * 

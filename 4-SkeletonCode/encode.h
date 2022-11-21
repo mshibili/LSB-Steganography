@@ -1,7 +1,6 @@
 /***************ENCODE.H*************
 *       Name                : Muhammed Shibili K
 *       Project             : Steganography
-*       Date of submition   : Oct 17 2022
 *       File                : encode.h
 *       Description         : This file contains the fucntion declarations, preprocessor definitions for Encode functionality.
 */

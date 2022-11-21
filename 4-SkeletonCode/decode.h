@@ -1,7 +1,6 @@
 /***************DECODE.H*************
 *       Name                : Muhammed Shibili K
 *       Project             : Steganography
-*       Date of submition   : Oct 17 2022
 *       File                : Decode.h
 *       Description         : This file contains the fucntion prototypes, preprocessor definitions for Decode functionality.
 */
