@@ -15,13 +15,16 @@ The type of steganography implemented by encoding the information in the LSB bit
 noticeably. <br />
 Image files are composed of digital data in pixel formats that can be rasterized for use on a computer display or printer. It may store data in uncompressed,
 compressed, or vector formats. Once rasterized, an image becomes a grid of pixels, each of which has a number of bits to designate its color equal to the color depth of the device displaying it.<br />
-
+The colours of each pixel defined by the RGB data present in the image file. Each pixel colour data consists of RGB values with a magnitude one byte for each colour. So that one pixel has 3 bytes of RGB information to display the image. <b>The change in Least significant bit of a RGB data bytes affects the overall output minimally, which is undetectable with human eyes in the case of image file.</b><br />
+<p align="left">
+<img src="https://github.com/mshibili/LSB-Steganography/blob/main/1-References/ChangeInLsb.png" alt="LSB change" title="LSB change" >
+</p>
+We will take each colour info Byte and replace the last bit with secret information to be encoded.<br />
 <b> Why .bmp ? </b><br />
 The BMP file format (Windows bitmap) handles graphic files within the Microsoft Windows OS. Typically, BMP files are uncompressed, and therefore
 large and lossless; their advantage is their simple structure and wide acceptance in Windows programs.<br />
-The change in Least significant bit of a file data bytes affects the overall output minimally, which is undetectable with human eyes in the case of image file.<br />
 <p align="left">
-<img src="https://github.com/mshibili/LSB-Steganography/blob/main/1-References/ChangeInLsb.png" alt="Design Overview" title="Design Overview" >
+<img src="https://github.com/mshibili/LSB-Steganography/blob/main/1-References/bmpConfig.png" alt="bmp Overview" title=".bmp Overview" >
 </p>
 
 
