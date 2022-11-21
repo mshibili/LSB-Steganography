@@ -27,8 +27,8 @@ What steganography essentially does is exploit human perception, human senses ar
     • Easy
 
 ## Design:
-<p align="center">
-<img src="https://github.com/mshibili/LSB-Steganography/blob/main/3-Design/ls_fc.jpg" alt="Design Overview" title="Design Overview"   width="450" height="450">
+<p align="left">
+<img src="https://github.com/mshibili/LSB-Steganography/blob/main/3-Design/ls_fc.jpg" alt="Design Overview" title="Design Overview" >
 </p>
 
 ## Source Code:
