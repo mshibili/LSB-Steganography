@@ -13,7 +13,18 @@ What steganography essentially does is exploit human perception, human senses ar
 ## LSB Bit Steganography
 The type of steganography implemented by encoding the information in the LSB bit of carrier file data, in a way that does not affect the carrier output 
 noticeably. <br />
-The change in Least significant bit of a file data bytes affects the overall output minimally wich is unditactable in the case of image file.
+Image files are composed of digital data in pixel formats that can be rasterized for use on a computer display or printer. It may store data in uncompressed,
+compressed, or vector formats. Once rasterized, an image becomes a grid of pixels, each of which has a number of bits to designate its color equal to the color depth of the device displaying it.<br />
+
+<b> Why .bmp ? </b><br />
+The BMP file format (Windows bitmap) handles graphic files within the Microsoft Windows OS. Typically, BMP files are uncompressed, and therefore
+large and lossless; their advantage is their simple structure and wide acceptance in Windows programs.<br />
+The change in Least significant bit of a file data bytes affects the overall output minimally, which is undetectable with human eyes in the case of image file.<br />
+<p align="left">
+<img src="https://github.com/mshibili/LSB-Steganography/blob/main/1-References/ChangeInLsb.png" alt="Design Overview" title="Design Overview" >
+</p>
+
+
 ## Requirements:<br />
 
     • The application accept an image file say .bmp along with the a text file which contains the message to be steged
